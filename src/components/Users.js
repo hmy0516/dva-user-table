@@ -16,7 +16,7 @@ class Users extends React.PureComponent {
         {
           key: 1,
           index: "1",
-          name: "John Brown",
+          name: "Brown",
           sex: "女",
           job: "会计",
           birthday: "2019/11/21",
@@ -25,7 +25,7 @@ class Users extends React.PureComponent {
         {
           key: 2,
           index: "2",
-          name: "Jim Green",
+          name: "Green",
           sex: "男",
           job: "老师",
           birthday: "2019/11/21",
@@ -34,7 +34,7 @@ class Users extends React.PureComponent {
         {
           key: 3,
           index: "3",
-          name: "Joe Black",
+          name: "Black",
           sex: "女",
           job: "司机",
           birthday: "2019/11/21",
